@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 #python3 hello.py argument
+#where "argument" is your argument
 
 #import module sys which is a very standard one
 import sys
