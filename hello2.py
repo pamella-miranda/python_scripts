@@ -1,9 +1,9 @@
 #------------------------------------------------------------------------------------------------------
-#You run this script as follows:
+# You run this script as follows:
 #
 # python3.* hello2.py
 #
-#where * is the version of Python
+# where * is the version of Python
 #------------------------------------------------------------------------------------------------------
 
 print ("Hello and welcome.")
