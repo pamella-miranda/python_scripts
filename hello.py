@@ -1,9 +1,11 @@
+#------------------------------------------------------------------------------------------------------
 #You run this script as follows:
 #
-# python3.* hello.py argument
+#python3.* hello.py argument
 #
 #where * is the version of Python
 #where "argument" is your argument
+#------------------------------------------------------------------------------------------------------
 
 #import module sys which is a very standard one
 import sys
