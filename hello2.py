@@ -1,6 +1,7 @@
-#!/usr/bin/env python3
-
-#python3.* hello2.py
+#You run this script as follows:
+#
+# python3.* hello2.py
+#
 #where * is the version of Python
 
 print ("Hello and welcome.")
