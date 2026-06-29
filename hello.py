@@ -1,24 +1,24 @@
-#------------------------------------------------------------------------------------------------------
-# Last modified: 29 January 2026
-# You run this script as follows:
+# ----------------------------------------------------------------------------------------------------------
+# Last modified: 29 June 2026
+# 
+# Printing a sentence
 #
-# python3.* hello.py argument
+#   Usage:
+#       python3.12 hello.py argument
 #
-# where:
-# * is the version of Python
-# "argument" is your argument
-#------------------------------------------------------------------------------------------------------
+#   Developed and tested with Python 3.12; other versions may work but are untested.
+# ----------------------------------------------------------------------------------------------------------
 
-#import module sys which is a very standard one
+# Import module sys, which is a very standard one
 import sys
 
-#sys.argv[0] is the script name itself and can be ignored
-word = sys.argv[1] #calls the first argument
+# sys.argv[0] is the script name itself and can be ignored
+word = sys.argv[1] # Calls the first argument
 
-#gather the code in a main() function
+# Gather the code in a main() function
 def main():
     print ('Hello there', word) 
     
-#standard boilerplate to call the main() function to begin the program
+# Standard boilerplate to call the main() function to begin the program
 if __name__ == '__main__':
-    main()    
+    main()
