@@ -3,6 +3,9 @@
 # 
 # Printing a sentence
 #
+#   Arguments:
+#       argument        : a string
+#
 #   Usage:
 #       python3.12 hello.py argument
 #
