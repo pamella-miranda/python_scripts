@@ -7,7 +7,7 @@
 #       argument        : a string
 #
 #   Usage:
-#       python3.12 hello.py argument
+#       python3.12 hello.py <argument>
 #
 #   Developed and tested with Python 3.12; other versions may work but are untested.
 # ----------------------------------------------------------------------------------------------------------
